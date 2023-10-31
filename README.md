@@ -1,4 +1,4 @@
-# Projetos Incríveis da ETEC 🚀
+# Projetos Incríveis da ETEC 
 
 ## Bem-Vindo!
 Este é o repositório onde estão guardados todos os 'incriveis' projetos desenvolvidos na ETEC.
